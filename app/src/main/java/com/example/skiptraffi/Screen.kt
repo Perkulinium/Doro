@@ -12,7 +12,7 @@ sealed class Screen(
         title = "Traffic Area",
         icon = R.drawable.baseline_home_24,
         route = "traffic_screen"
-    ) 
+    )
 
     object GoogleMaps : Screen(
         title = "Google maps",
